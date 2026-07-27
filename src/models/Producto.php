@@ -1,4 +1,4 @@
 <?php
 
 namespace App\Models;
-class Producto {}
+class Producto extends Modelo{}
