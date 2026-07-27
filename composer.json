@@ -1,0 +1,16 @@
+{
+    "name": "manuel/alkemy",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manuel\\Alkemy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "coriawork",
+            "email": "manuelcoriawork@gmail.com"
+        }
+    ],
+    "require": {}
+}
