@@ -14,6 +14,10 @@ class Db{
                 'usuario' => 'Juan',
                 'password' => '123',
                 'carrito_id' => '1',
+            ],[
+                "usuario" => 'Pedro',
+                "password" => '456',
+                "carrito_id" => '2',
             ]
         ],
         "carritos" => [
