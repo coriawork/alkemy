@@ -15,12 +15,12 @@ class UsuarioController {
 
         return json_encode($usuario->index());
     }
-    
-    public function get($id){
+    //esto seria mas para cuando haya que devolver json
+  /*   public function get($id){
         return json_encode($this->usuario->get($id));
     }
 
     public function carrito($id){
         $carrito = $this->usuario->carrito($id);
-    }
+    } */
 }
