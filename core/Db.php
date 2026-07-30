@@ -29,11 +29,22 @@ class Db{
             1 => [
                 'nombre' => 'Zapatos',
                 'precio' => 100,
+                "categoria_id" => 1
             ],
 
             2 => [
                 'nombre' => 'Buzos',
+
                 'precio' => 200,
+                "categoria_id" => 2
+            ]
+        ],
+        "categorias" => [
+            1 => [
+                'nombre' => 'Calzado',
+            ],
+            2 => [
+                'nombre' => 'Ropa',
             ]
         ]
     ];
